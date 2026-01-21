@@ -1,6 +1,6 @@
 # spoofverifier
 
-a python tool to check if a domain is vulnerable to email spoofing. it queries dns for dmarc, spf, and dkim records and reports if the domain is protected or vulnerable.
+a python tool to check if a domain is vulnerable to email spoofing. it queries dns for dmarc, spf, and dkim records and reports if the domain is vulnerable.
 
 ## how it works
 
